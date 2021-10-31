@@ -21,5 +21,6 @@ public class NumberGUessingGame {
             }
         }
         System.out.println("my number was: "+number);
+        System.out.println("play again ");
     }
 }
